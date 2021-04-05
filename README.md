@@ -3,10 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=george-jindo&label=Profile%20views&color=0e75b6&style=flat" alt="george-jindo" /><br></p>
 <table width="100%"> 
   <tr>
-  <td width="50%" align="center">
+  <td width="50%">
       
 &nbsp; <br> 
-<p align="center">
 - 🔭 I’m currently working on [Chatterbox](https://github.com/George-Jindo/chat-app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/George-Jindo](https://github.com/George-Jindo)
