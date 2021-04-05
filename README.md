@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm George Jindo</h1>
 <h3 align="center">A passionate full stack developer in Arizona</h3>
-<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
+<p align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=george-jindo&label=Profile%20views&color=0e75b6&style=flat" alt="george-jindo" /> </p>
 
