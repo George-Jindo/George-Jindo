@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: **I love Gaming & Cars.**</p>
 ### Spotify Playing 🎶
-[![Spotify](https://novatorem-seven-rouge.vercel.app/api/spotify)
+![Spotify](https://novatorem-seven-rouge.vercel.app/api/spotify)
 
   </td>
   <td width="50%">
