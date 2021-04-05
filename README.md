@@ -27,5 +27,5 @@
   <summary>:zap: Github Stats</summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=george-jindo&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="george-jindo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=george-jindo&show_icons=true&theme=synthwave&locale=en" alt="george-jindo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=george-jindo&show_icons=true&theme=synthwave&locale=en" alt="george-jindo" /></p>
 </details>
