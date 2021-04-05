@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=george-jindo&label=Profile%20views&color=0e75b6&style=flat" alt="george-jindo" /><br></p>
 <table width="100%"> 
   <tr>
-  <td width="50%">
+  <td width="50%" align="center">
       
 &nbsp; <br> 
 <p align="center">
