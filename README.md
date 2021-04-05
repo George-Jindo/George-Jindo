@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact: **I love Gaming & Cars.**</p>
 
+[![Spotify](https://novatorem-seven-rouge.vercel.app/api/spotify)](https://open.spotify.com/user/1268765765)
+
   </td>
   <td width="50%">
 
@@ -22,7 +24,7 @@
   </td>
   </table>
   
- [![Spotify](https://novatorem-seven-rouge.vercel.app/api/spotify)](https://open.spotify.com/user/1268765765)
+ 
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/gjindo">
