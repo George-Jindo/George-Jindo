@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gjindo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gjindo" height="30" width="40" /></a>
+![Twitter Follow](https://img.shields.io/twitter/follow/gjindo?color=%231DA1F2&logo=twitter&style=for-the-badge)
 <a href="https://linkedin.com/in/georgejindo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="georgejindo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/georgej" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="georgej" height="30" width="40" /></a>
 </p>
