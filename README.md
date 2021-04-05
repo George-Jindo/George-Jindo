@@ -29,4 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=george-jindo&show_icons=true&theme=vue-dark&locale=en" alt="george-jindo" /></p>
 </details>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so stop by and say <b>Hi!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people!</b> so give me a follow & connect with me :)</em>
