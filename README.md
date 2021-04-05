@@ -19,7 +19,7 @@
   </td>
   <td width="50%">
 
-<br><p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+<br><p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450">
 </p>
   </td>
   </table>
