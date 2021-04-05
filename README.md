@@ -1,26 +1,10 @@
+<h1 align="center">Hi 👋, I'm George Jindo</h1>
+<h3 align="center">A passionate full stack developer in Arizona</h3>
 <table width="100%"> 
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
-
-  </td>
-  <td width="50%">
-
-<br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/5ck1H)
-  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
-</p>
-  </td>
-  </table>
-
-<h1 align="center">Hi 👋, I'm George Jindo</h1>
-<h3 align="center">A passionate full stack developer in Arizona</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=george-jindo&label=Profile%20views&color=0e75b6&style=flat" alt="george-jindo" /><br>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300"></p>
-
+&nbsp; <br> 
 - 🔭 I’m currently working on [Chatterbox](https://github.com/George-Jindo/chat-app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/George-Jindo](https://github.com/George-Jindo)
@@ -28,6 +12,19 @@
 - 📫 How to reach me **g.jindo@gmail.com**
 
 - ⚡ Fun fact: **I love Gaming & Cars.**
+
+  </td>
+  <td width="50%">
+
+<br><p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
+</p>
+  </td>
+  </table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=george-jindo&label=Profile%20views&color=0e75b6&style=flat" alt="george-jindo" /><br></p>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/gjindo">
