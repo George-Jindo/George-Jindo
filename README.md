@@ -6,13 +6,14 @@
   <td width="50%">
       
 &nbsp; <br> 
+<p align="center">
 - 🔭 I’m currently working on [Chatterbox](https://github.com/George-Jindo/chat-app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/George-Jindo](https://github.com/George-Jindo)
 
 - 📫 How to reach me **g.jindo@gmail.com**
 
-- ⚡ Fun fact: **I love Gaming & Cars.**
+- ⚡ Fun fact: **I love Gaming & Cars.**</p>
 
   </td>
   <td width="50%">
