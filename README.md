@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm George Jindo</h1>
-<h3 align="center">A passionate full stack developer in Arizona</h3>
+<h3 align="center">A passionate full stack developer in Arizona</h3><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=george-jindo&label=Profile%20views&color=0e75b6&style=flat" alt="george-jindo" /><br></p>
 <table width="100%"> 
   <tr>
   <td width="50%">
@@ -20,11 +21,6 @@
 </p>
   </td>
   </table>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=george-jindo&label=Profile%20views&color=0e75b6&style=flat" alt="george-jindo" /><br></p>
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/gjindo">
