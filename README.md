@@ -13,7 +13,7 @@
 - 📫 How to reach me **g.jindo@gmail.com**
 
 - ⚡ Fun fact: **I love Gaming & Cars.**</p>
-
+### Spotify Playing 🎶
 [![Spotify](https://novatorem-seven-rouge.vercel.app/api/spotify)](https://open.spotify.com/user/1268765765)
 
   </td>
