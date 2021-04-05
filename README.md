@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/gjindo">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/gjindo?color=%231DA1F2&logo=twitter&style=for-the-badge">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gjindo?color=%231DA1F2&logo=twitter&style=for-the-badge">
 <a href="https://stackoverflow.com/users/11461798/georgej">
 <img alt="Stack Overflow Follow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 <a href="https://www.linkedin.com/in/georgejindo/">
