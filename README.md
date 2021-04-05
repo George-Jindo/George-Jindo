@@ -27,7 +27,7 @@
   <summary>:zap: Most Used Languages</summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=george-jindo&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="george-jindo" /></p>
 </details>
-
+&nbsp;
 <details>
   <summary>:zap: Github Stats</summary>
 
