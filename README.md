@@ -31,4 +31,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=george-jindo&show_icons=true&theme=vue-dark&locale=en" alt="george-jindo" /></p>
 </details>
 
-
+---
