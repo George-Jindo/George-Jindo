@@ -17,7 +17,8 @@
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gjindo?color=%231DA1F2&logo=twitter&style=for-the-badge">
 <a href="https://stackoverflow.com/users/11461798/georgej">
 <img alt="Stack Overflow Follow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-<a href="https://stackoverflow.com/users/georgej" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="georgej" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/georgejindo/">
+<img alt="LinkedIn Follow" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 
 <h3 align="left">Languages and Tools:</h3>
